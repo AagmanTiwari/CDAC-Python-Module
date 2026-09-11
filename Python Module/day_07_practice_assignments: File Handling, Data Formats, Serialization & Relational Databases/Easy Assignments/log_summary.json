@@ -1,0 +1,8 @@
+{
+    "total_logs": 5,
+    "level_counts": {
+        "INFO": 3,
+        "ERROR": 1,
+        "WARNING": 1
+    }
+}

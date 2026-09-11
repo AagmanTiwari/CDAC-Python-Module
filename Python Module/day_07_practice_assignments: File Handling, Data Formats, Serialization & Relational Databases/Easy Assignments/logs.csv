@@ -1,0 +1,6 @@
+date,time,level,message
+2026-09-01,10:15:20,INFO,Application started
+2026-09-01,10:16:10,ERROR,Database connection failed
+2026-09-01,10:17:05,INFO,User logged in
+2026-09-01,10:18:30,WARNING,Low disk space
+2026-09-01,10:19:45,INFO,Application stopped
